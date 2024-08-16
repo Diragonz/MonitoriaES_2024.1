@@ -41,3 +41,4 @@ Salve, pessoal! Esse repositório foi feito para vocês adicionarem o nome de vo
 - Gustavo Diego Da Silva
 - Tiago Oliveira de Senna Caaetê Chacon
 - Rafaela Fernandes Leão
+- Beatriz Helena da Silva Melo
