@@ -37,3 +37,4 @@ Salve, pessoal! Esse repositório foi feito para vocês adicionarem o nome de vo
 - Celeste Azul Gomes de Gouveia Pereira
 - Mateus Nepomuceno Silva Santos
 - João Pedro Santos Oliveira
+- Mariana Marinho da Silva Andrade
