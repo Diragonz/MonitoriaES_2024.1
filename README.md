@@ -36,3 +36,4 @@ Salve, pessoal! Esse repositório foi feito para vocês adicionarem o nome de vo
 - Arlen Ferreira da Silva Filho
 - Celeste Azul Gomes de Gouveia Pereira
 - Mateus Nepomuceno Silva Santos
+- João Pedro Santos Oliveira
