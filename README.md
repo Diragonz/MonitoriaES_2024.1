@@ -39,3 +39,5 @@ Salve, pessoal! Esse repositório foi feito para vocês adicionarem o nome de vo
 - João Pedro Santos Oliveira
 - Mariana Marinho da Silva Andrade
 - Gustavo Diego Da Silva
+- Tiago Oliveira de Senna Caaetê Chacon
+- Rafaela Fernandes Leão
