@@ -43,3 +43,4 @@ Salve, pessoal! Esse repositório foi feito para vocês adicionarem o nome de vo
 - Rafaela Fernandes Leão
 - Beatriz Helena da Silva Melo
 - Vitória Beatriz Alexandre Silva
+- Gabriel Marvin Maciel de Oliveira
