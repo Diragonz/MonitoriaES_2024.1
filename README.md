@@ -42,4 +42,7 @@ Salve, pessoal! Esse repositório foi feito para vocês adicionarem o nome de vo
 - Tiago Oliveira de Senna Caaetê Chacon
 - Rafaela Fernandes Leão
 - Beatriz Helena da Silva Melo
+- Karen Vasconcelos Verçosa
+- Vitória Beatriz Alexandre Silva
+- Gabriel Marvin Maciel de Oliveira
 - Alysson José da Silva Ramos
